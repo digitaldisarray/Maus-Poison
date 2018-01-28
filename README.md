@@ -1,6 +1,9 @@
 # Maus-Poison
 :skull: A sabatoge version of the java rat [Maus](https://github.com/Ghosts/Maus)
 
+### Disclaimer
+Any actions and/or activities related to the material contained within this repository is solely your responsability. Misuse of the materials in this repository can result in criminal charges being brought against the persons in question. I will not be held responsible in the event any criminal charges are brought against any individuals misuing the code, materials, and or resources in this repository to break the law.
+
 ### What does it do?
 Maus Poison is a version of Maus that will...
 - Uninstall the rat from all existing bots.
