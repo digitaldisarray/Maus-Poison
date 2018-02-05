@@ -33,7 +33,7 @@ public class ClientBuilder {
     public void run() throws IOException {
         Manifest manifest = new Manifest();
         manifest.getMainAttributes().put(Attributes.Name.MANIFEST_VERSION, "1.0");
-        manifest.getMainAttributes().put(new Attributes.Name("Created-By"), "Maus");
+        manifest.getMainAttributes().put(new Attributes.Name("Created-By"), "Retard Skid"); // Maus is for skids confirmed?
         manifest.getMainAttributes().put(Attributes.Name.CLASS_PATH, ".");
         manifest.getMainAttributes().put(Attributes.Name.MAIN_CLASS, "Client.Client");
 
