@@ -12,3 +12,5 @@ Maus Poison is a version of Maus that will...
 
 ### How do I use it?
 Maus Poison is used by replacing the original Maus.jar server with MausPoison. Next time the attacker opens up their server, all of their bots will be removed and they will be unable to create new ones.
+
+Perhaps creating a script/dropper capable of quickly and silently replacing the original Maus.jar with the poison Maus.jar would be the best way of going about things.
